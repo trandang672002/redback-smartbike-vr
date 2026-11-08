@@ -44,5 +44,5 @@ The project has been setup to be clean and items will need to be placed in the c
 
 When adding your new feature, add the files into each separate asset folder as required and, if necessary, create a sub-folder to store assets if there is great complexity.
 
-## Useful links
+## Useful linkss
 - [Unity docs](https://docs.unity.com/)
